@@ -2,7 +2,7 @@
 <b><i>Repositório criado para o Desafio de Projeto.</i></b>
 
 # Introdução ao Git 🧡
-O Git, como já foi mencionado antes, é um sistema de controle de versão que, pela sua estrutura interna, é como se fosse uma máquina do tempo extremamente veloz, e um robô de integração muito competente.
+O Git, é um sistema de controle de versão que, pela sua estrutura interna, é como se fosse uma máquina do tempo extremamente veloz, e um robô de integração muito competente.
 
 Ele foi criado em 2005 por Linus Torvalds, que nada mais nada menos é o mesmo criador do Linux, que não estava muito feliz com o BitKeeper, o sistema de controle de versão utilizado no desenvolvimento do kernel do Linux.
 
